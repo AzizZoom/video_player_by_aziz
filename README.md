@@ -1,2 +1,2 @@
 # video_player_by_aziz
-This is a Video player webpage.
+This is a video player webpage.
